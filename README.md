@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LPTimey
-- 👀 I’m interested in Programming, Electric Guitar, YGO, Billard, Tabletennis, Videogames (FGs, Splatoon) 
+- 👀 I’m interested in Programming, Electric Guitar, YGO, Billard, Tabletennis, Videogames (FGs, Splatoon,...) 
 - 🌱 I’m currently learning .
 
 <!---
